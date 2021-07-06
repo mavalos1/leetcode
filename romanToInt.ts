@@ -1,5 +1,5 @@
-// Runtime: 156 ms, faster than 79.18% of TypeScript online submissions for Roman to Integer.
-// Memory Usage: 45.8 MB, less than 71.40% of TypeScript online submissions for Roman to Integer.
+// Runtime: 140 ms, faster than 96.69% of TypeScript online submissions for Roman to Integer.
+// Memory Usage: 45.9 MB, less than 65.95% of TypeScript online submissions for Roman to Integer.
 
 // Symbol values
 const symbols = {
