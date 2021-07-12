@@ -42,8 +42,8 @@ function twoSumsBruteForce(nums: number[], target: number): number[] {
     return [-1, -1];
 }
 
-// Runtime: 88 ms, faster than 67.48% of TypeScript online submissions for Two Sum.
-// Memory Usage: 42.3 MB, less than 10.58% of TypeScript online submissions for Two Sum.
+// Runtime: 84 ms, faster than 82.34% of TypeScript online submissions for Two Sum.
+// Memory Usage: 42.4 MB, less than 10.14% of TypeScript online submissions for Two Sum.
 function twoSum(nums: number[], target: number): number[] {
     const map: { [k: number]: number } = {};
     for (let i = 0; i < nums.length; i++) {
